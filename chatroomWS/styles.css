@@ -1,0 +1,19 @@
+
+
+#log {
+    border: 5px solid black;
+    width: 800px;
+    height: 300px;
+    margin: 0 auto;
+    border: 5px solid black;
+    /* Add any other styles you want */
+}
+
+#sendControls {
+    width: 250px;
+    margin: 30px;
+}
+
+div{
+    display: block
+}
