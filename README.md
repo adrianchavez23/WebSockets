@@ -1,3 +1,5 @@
-PROYECTOS PARA ENTENDER WEB SOCKETS
-- chatroomWS: Uso de libreria 'ws'
-- socket.io: Uso de libreria 'socket.io'
+##PROJECTS TO UNDERSTAND WEB SOCKETS
+- chatroomWS: Uses 'ws' library
+- socket.io: Uses 'socket.io' library
+
+This project helped me understand Web Sockets fundamentals during my first internship.
